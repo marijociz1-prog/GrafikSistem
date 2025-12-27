@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 150" width="900" height="150">
+    <defs>
+        <style>
+            @font-face {
+                font-family: 'BrushScriptMT';
+                src: local('Brush Script MT');
+            }
+        </style>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" 
+          fill="#ffc800" font-family="BrushScriptMT, cursive" font-size="130">
+        Grafik Sistem
+    </text>
+</svg>
